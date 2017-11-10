@@ -2,6 +2,7 @@
 If you want English Ver, click [English Ver]()
 # Vim 단축키들
 / : 단어 검색
+
 Ctrl + W : 창 이동
 # Vim 설정
 '~/.vimrc' 파일에 입력 내용
