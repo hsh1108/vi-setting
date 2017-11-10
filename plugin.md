@@ -1,7 +1,9 @@
 
 # Plugin 설명
 Vim 설정의 '~/.vimrc'와 같이 ""Plugin 부분 입력해야 사용 가능
-[plugin ](https://agvim.wordpress.com/2017/09/05/vim-plugins-50/)
+
+[plugin 참조](https://agvim.wordpress.com/2017/09/05/vim-plugins-50/)
+
 ## Vundle: Vim plugin 검색 및 설치 plugin
  ### 설치 방법
 git으로 다운받기
