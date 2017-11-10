@@ -23,4 +23,4 @@
 	call vundle#end()
 	filetype indent plugin on
 
-	autocmd FileType python setlocal completeopt-=preview "jedi-vim사용 시 docstring 뜨지 않게 하기
+	autocmd FileType python setlocal completeopt-=preview
