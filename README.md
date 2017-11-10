@@ -4,8 +4,7 @@ If you want English Ver, click [English Ver]()
 / : 단어 검색
 
 Ctrl + W : 창 이동
-# Vim 설정
-'~/.vimrc' 파일에 입력 내용
+# Vim 설정: '~/.vimrc' 파일에 입력 내용
 
 	""Setting
 	let python_version_2 = 1
@@ -31,8 +30,7 @@ Ctrl + W : 창 이동
 
 	autocmd FileType python setlocal completeopt-=preview "jedi-vim사용 시 docstring 뜨지 않게 하기
 
-# Plugin 설명
-위 '~/.vimrc'와 같이 ""Plugin 부분 입력해야 사용 가능
+# Plugin 설명: 위 '~/.vimrc'와 같이 ""Plugin 부분 입력해야 사용 가능
 
 ## 1. Vundle: Vim plugin 검색 및 설치 plugin
 ### 설치 방법
