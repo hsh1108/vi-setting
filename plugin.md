@@ -35,6 +35,7 @@ git으로 다운받기
 * [github 홈페이지](https://github.com/davidhalter/jedi-vim) 참조
 ### 사용법
 'Ctrl+Space'누르면 자동 완성 목록 보기
+
 단점) 맨 처음 검색시에만 캐시에 저장하느라 시간이 조금 걸림
 
 # delimitMate: 괄호 자동 완성 플러그인
